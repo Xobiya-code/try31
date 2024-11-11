@@ -186,6 +186,9 @@ int main() {
                 cout << "Invalid choice. Please try again.\n";
         }
     } while (choice != 8);
+    cout << "Exiting the application.\n";
+    cout << "Exiting the application.\n";
+    cout << "Exiting the application.\n";
 
     return 0;
 }
